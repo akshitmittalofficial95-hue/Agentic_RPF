@@ -1,0 +1,7 @@
+streamlit==1.39.0
+pydantic==2.13.4
+pypdf==6.21.2
+openai==1.52.2
+python-dotenv==1.2.1
+pandas==2.2.3
+reportlab==4.2.5
